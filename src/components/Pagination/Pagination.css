@@ -1,0 +1,21 @@
+.paginationDiv{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.paginationBtn{
+    margin:2rem;
+    width:10rem;
+    height:3rem;
+    background:rgb(238, 205, 205);
+    font-weight:bold;
+    border:2px solid black;
+    border-radius:1rem;
+}
+
+.paginationBtn:hover{
+    background:rgb(185, 150, 150);
+}

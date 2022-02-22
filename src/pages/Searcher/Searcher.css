@@ -1,0 +1,17 @@
+.searcher{
+
+}
+
+.searcher-input{
+    width:80%;
+    margin: 7px 10% 0 10%;
+    padding: 4px 0 4px 5px;
+    background-color:rgb(238, 205, 205);;
+    border:1px solid black;
+    border-radius: 5px;
+
+}
+
+.searcher-input::-webkit-input-placeholder {
+    color:#333;
+}

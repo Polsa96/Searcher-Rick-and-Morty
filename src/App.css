@@ -1,0 +1,18 @@
+
+.headerApp{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.active{
+  padding:2em;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.inactive{
+  padding:2rem;
+}
